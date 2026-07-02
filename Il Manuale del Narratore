@@ -180,8 +180,21 @@ Gli scheletri vengono animati per eseguire ordini specifici e non sono capaci di
 **Tattiche**
 Gli scheletri attaccano eseguendo gli ordini ricevuti ma , se non é presente un necromante a guidarli, eseguiranno i loro ordini alla lettera ed attaccheranno lanciandosi contro i nemici senza nessun pensiero alla loro sopravvivenza. Gli scheletri possono usare armi a distanza me attaccano percependo le vibrazioni e non attaccheranno un nemico che levita ad esempio.
 
-Zombie
-Ghoul
+### Zombi
+Uno zombi é il tipo di non morto che si ottiene quando si rianima un morto recente. Rispetto agli scheletri, gli zombi sono piú lenti e rumorosi ma, se la morte é molto recente, possono passare per viventi. La rianimazione non ferma la decomposizione e prima o poi uno zombie si trasformerá in uno scheletro. Una creatura in putrefazione puó essere scopera facilmente da chiunque abbia un olfatto. A differenza degli scheletri, che non hanno nessun organo vitale, gli zombie possono essere creati anche tramite particolari sieri ed altri metodi non necromantici.
+**Descrizione**
+Uno zombie é identico alla persona che era in vita ma ad un diverso grado di decomposizione. Mentre uno zombie "fresco" puó essere scambiato per vivente a distanza ,da vicino appare immediatamente chiaro che c'é qualcosa di strano.
+**Habitat**
+Gli zombi possono essere presenti ovunque esistano cadaveri da rianimare.
+**Organizzazione**
+Quando sono creati da un necromante gli zombi seguono gli ordini del proprio creatore. Gli zombi creati in altri modi hanno altre prioritá come il nutrirsi od uccidere; questi zombi sono impossibili da controllare con la necromanzia.
+**Tattiche**
+Gli zombie possono muoversi ed attaccare ma , sia che siano sotto il controllo di un necromante o no, non hanno modo di percepire niente altro che le creature viventi intorno a loro . In combattimento si prenderanno sempre la via piú breve verso la preda piú vicina e non percepiranno eventuali trappole. Gli zombi non hanno l'agilitá per utilizzare armi bianche o a distanza.
+
+
+### Ghoul
+I ghouls sono non morti creati dal morso di un altro ghoul o di un Ur Ghoul. Se una creatura senziente morsa da un ghoul non viene curata in tempo si trasforma in un ghoul dopo 48 ore. Durante le prime 12 ore é possibili bloccare il processo e riportare la vi
+
 Ur Ghoul
 Vampiro
 Fantasma
