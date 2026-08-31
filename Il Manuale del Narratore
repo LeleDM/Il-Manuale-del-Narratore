@@ -40,7 +40,7 @@ Vednis		Raritá: Raro		Valore: Molto Alto
 L'impero arcano di Vednis controllava solo una piccola parte dei Territori ma la cittá di Turandar é uno dei pochi insediamenti rimasti quasi identici dall'epoca di Vednis. Molti degli artefatti ,anche quelli con le funzioni piú ordinarie come un pettine o una pentola, hanno una qualche forma di incantamento. I loro oggetti piú antichi erano decorati con motivi geometrici mentre quelli creati negli ultimi secoli del loro impero sono decorati con rappresentazioni di demoni,ragni,serpenti o di atti malvagi.
 
 Fatati    Raritá: Raro		Valore: Molto Alto
-Il dominio delle fate nei Territori non si é mai tradotto in un loro impero: le fate della Corte dell'Alba convivevano con gli abitanti di Veras Erda in armonia mentre le fate della Corte del Crepuscolo preferivano regnare nell'ombra creando culti o infiltrando i centri di potere. Nessuna delle due fazione ha lasciato opere d'arte ma é ancora possibile trovare utensili od armi create dalle fate. La Corte dell'Alba crea oggetti che appaiono semplici ma che necessitano di una grande abilitá per essere creati e che fondono insieme legno, roccia , avorio ed altri materiali naturali. Gli artefatti creati dalla Corte del Crepuscolo possono essere estremamente semplici o sovraccarichi di decorazioni e gemme a seconda di chi doveva usarli.
+Il dominio delle fate nei Territori non si é mai tradotto in un loro impero: le fate della Corte dell'Alba convivevano con gli abitanti di Veras Erda in armonia mentre le fate della Corte del Crepuscolo preferivano regnare nell'ombra creando culti o infiltrando i centri di potere. Nessuna delle due fazione ha lasciato opere d'arte ma é ancora possibile trovare utensili od armi create dalle fate. La Corte dell'Alba crea oggetti che appaiono semplici ma che necessitano di una grande abilitá per essere creati e che fondono insieme legno, roccia , avorio ed altri materiali naturali. Gli artefatti creati dalla Corte del Crepuscolo possono essere estremamente semplici o sovraccarichi di decorazioni e gemme a seconda del rango di chi li utilizza.
 Si dice che gli oggetti piú rari possono essere percepiti dalle fate di entrambe le Corti che potrebbero non vedere di buon occhio membri di altre razze utilizzare ció che era stato creato per le fate.
 
 Draconici		Raritá: Estremamente Raro		Valore: Esclusivo
@@ -64,23 +64,50 @@ In alcuni casi la ricompensa puó essere un bene come un veicolo od anche un imm
 ##Oggetti Magici
 Sotto la categoria oggetti magici si includono tutti gli artefatti che derivano il loro potere da una particolare fonte: Etere, Stregoneria o Divinitá. Alcuni oggetti Eterici sono abbastanza comuni da poter essere acquistati in negozi specializzati o presso la Societá Arcana mentre gli oggetti creati dalle streghe possono essere solo acquistati presso una strega o qualcuno che traffichi in oggetti inusuali. Artefatti creati dal potere divino sono collegati ad una specifica divinitá e fede e sono inutili,se non dannosi, nelle mani di un profano .
 
-Insetto Riparante
-Perla di Sangue
+Oggetti Incantati
 Ascia Ritornante
-Caricatore Infinito
-Kew Il Signore della Guerra
 Il Vendicatore
 La Lama di Karel
-Il Manto di Agratia
 Il Bastone del Drago Eterno
-Il Maglio di Demir
 Il Giustiziere
-Torcia Eterica
-Il Trasportatore
-DistrAction Man
+
+
+
+Oggetti Stregati
+Perla di Sangue
 Braciere Visione
-Visore
+
+
+
+Costrutti Arcani
+Insetto Riparante
+Caricatore Infinito
+DistrAction Man
+Kew Il Signore della Guerra
+Torcia Eterica
 Lucchetto Inviolabile 
+Eteredomestici
+
+
+Oggetti Divini
+Non esiste 
+
+Spada Demoniaca
+Il Manto di Agratia
+Il Maglio di Demir
+
+
+
+
+
+
+
+
+Il Trasportatore
+
+
+Visore
+
 Spada Demoniaca
 Arco
 Stivali
@@ -326,17 +353,37 @@ I gremlin hanno un'intelligenza animale eccetto che per i bersagli dei loro sche
 I gremlin sono deboli e cercano in tutti i modi di evitare lo scontro. Esistono gruppi specializzati nella caccia ai gremlin che utilizzano trappole e veleni per sterminarli ed ogni grande struttura ha almeno un cacciatore a tempo pieno. I gremlin non attaccheranno mai una creatura di taglia media se non sono in soverchiante maggioranza.
 Se costretti a combattere utilizzano i loro artigli oppure lanciano tutto quello che hanno a portata di mano.
 
+### Sanguinario
+I Sanguinari sono fate oscure completamente consumate dal desiderio di uccidere nella maniera piú brutale possibile. Quando appaiono nel mondo dei mortali cominciano immediatamente ad uccidere ogni persona od animale che si trovi intorno a loro per poi spostarsi in una nuova area e ripetere il ciclo di violenza.
+**Descrizione**
+Sono creature di Taglia Piccola dall'aspetto di piccoli umanoidi dalla pelle grigia completamente nudi. Hanno occhi spiritati e spesso portano lunghe barbe scarmigliate. I Sanguinari sono silenziosi e solo quando uccidono shignazzano felici. I Sanguinari utilizzano armi che sono troppo grandi per la propria Taglia e piene di lame e spuntoni.
+**Habitat**
+Alla Corte del Crepuscolo i Sanguinari sono usato come soldati nelle battaglie che le fate oscure combattono tra di loro e contro le Fate della Corte dell'Alba. Sono piú efficaci dei puck ma non hanno alcuna disciplina e le altre fate si tengono alla larga dai Sanguinari in caso questi rimangano senza nemici e comincino ad attaccare i propri alleati. Nel mondo dei mortali i Sanguinari lasciano una scia di morte e distruzione finché non sono eliminati o non trovano nessuna creatura da uccidere per 24 ore e scompaiono. Solo le creature che spargono sangue appagano i Sanguinari e gli insetti o le creature artificiali vengono ignorati.
+**Organizzazione**
+I Sanguinari non hanno alcun tipo di societá organizzata. Le loro armi vengono create insieme ai Sanguinari e spariscono dopo la loro morte. Non rubano nulla ,non torturano le proprie vittime e non fanno nulla per nascondere la propria presenza.
+**Tattiche**
+Alla Corte del Crepuscolo le fate li evocano per combattere una battaglia ed alla fine della battaglia i Sanguinari si uccidono l'uno con l'altro finché non ne rimane solo uno che viene ucciso dagli altri servitori delle fate. Nel mondo dei mortali appaiono singolarmente ma , nei rari casi in cui ne appaia piú di uno, si lanciano prima contro tutte le altre creature e poi attaccano gli altri Sanguinari. In combattimento non usano tattiche complesse e si lanciano verso il bersaglio piú vicino.
 
 ### Sidhe
 I Sidhe sono l'aristocrazia della Corte del Crepuscolo e si considerano le uniche vere Fate Oscure. A differenza delle altre fate possono muoversi tra il loro mondo e quello dei mortali liberamente. Ogni Sidhe ha una sua personalitá e libero arbitrio e possono decidere di vivere come vogliono: la maggior parte dei Sidhe sono crudeli, arroganti e violenti ma alcuni ,soprattutto se vivono a contatto con i mortali, possono con il tempo cambiare fino a diventare 
 **Descrizione**
-I Sidhe sono creature antropomorfe che assomigliano ad umani incredibilmente alti e slanciati. Hanno molte caratteristiche che li distinguono dagli altri mortali : occhi completamente neri ,denti aguzzi ed orecchie appuntite. Ogni Sidhe inoltre puó trasformarsi in un membro di una razza mortale oin un'orribile creature da incubo che puó far morire di paura chiunque la veda. I Sidhe sono creature corporee e si riproducono come tutti i mammiferi, se si riproducono con un mortale il risultato puó essere un Sidhe , un Oscuro o un mortale. I Sidhe nati da unioni con i mortali hanno tratti che li distinguono dalle fate "pure" e vengono trattati come una casta inferiore. La maggior parte dei Sidhe con un solo genitore fatato preferisce rimanere tra i mortali. Gli abiti dei Sidhe sono solitamente particolarmente elaborati e provocanti ed anche quando si travestono da mortali tendono a dare nell'occhio.
+I Sidhe sono creature antropomorfe che assomigliano ad umani incredibilmente alti e slanciati. Hanno molte caratteristiche che li distinguono dagli altri mortali : occhi completamente neri ,denti aguzzi ed orecchie appuntite. Ogni Sidhe inoltre puó trasformarsi in un membro di una razza mortale oin un'orribile creature da incubo che puó far morire di paura chiunque la veda. I Sidhe sono creature corporee e si riproducono come tutti i mammiferi, se si riproducono con un mortale il risultato puó essere un Sidhe , un Oscuro o un mortale. I Sidhe nati da unioni con i mortali hanno tratti che li distinguono dalle fate "pure" e vengono trattati come una casta inferiore. La maggior parte dei Sidhe con un solo genitore fatato preferisce rimanere tra i mortali. Gli abiti dei Sidhe sono solitamente particolarmente elaborati e provocanti ed anche quando si travestono da mortali tendono a dare nell'occhio.Quando un Sidhe muore il corpo rimane sia che muoia nel mondo dei mortali sia che muoia nella Corte del Crepuscolo.
 **Habitat**
 Nelle terre della Corte del Crepuscolo i Sidhe vivono in castelli e palazzi oscuri circondati dalla loro corte di creature fatate e ne escono solo per partecipare a feste,duelli o battaglie con gli altri Sidhe. Nelle terre dei mortali i Sidhe tendono a vivere nelle zone piú lussuose circondati dal lusso e conducendo una vita sregolata.
 **Organizzazione**
 I Sidhe sono organizzati secondo complessi schemi che non hanno alcun senso agli occhi dei mortali. Non esiste un sovrano dei Sidhe e nessuno ha l'autoritá di elevare nuovi nobili. Un Sidhe puó darsi il titolo che vuole ,di solito qualcosa di elaborato, e se nessuno lo contesta o se riesce a sconfiggere i suoi nemici allora verrá accettato dagli altri. Esiste inoltre una complicatissima etichetta per i rapporti tra Sidhe che é la causa di infiniti duelli e guerre civili ma che é incomprensibile ai mortali. Esistono SIdhe che ignorano completamente le proprie tradizioni e decidono di vivere come vogliono nelle terre della Corte del Crepuscolo o nel mondo dei mortali. Chi decide di vivere nel mondo dei mortali di solito impara a controllare la propria crudeltá o quantomento a nasconderla.
-Sanguinario
-Medusa
+**Tattiche**
+I Sidhe si considerano creature superiori ai mortali ed utilizzaranno i propri servitori per attaccarli finché i loro nemici non vengono uccisi o si dimostrano avversari degni di essere sconfitti da un Sidhe. In combattimento un Sidhe utilizza incantesimi ed ogni tipo di arma e combatterá senza esclusione di colpi ed utilizzando qualsiasi trucco pur di vincere. Se peró un nemico di provato valore sfida un SIdhe a duello questi accetterá e combatterá secondo le regolo decise da entrambi i duellanti.
+**Tesori**
+I Sidhe incontrati alla Corte del Crepuscolo non avranno denaro ma indosseranno migliaia di Talassi in gioielli ed oggetti magici. Gli oggetti creati per i Sidhe tendono ad essere facilmente riconoscibili per via delle loro decorazioni macabre o pruriginose e per la propensione ad inserire spuntoni ovunque. I Sidhe non vedono di buon occhio membri di altre razze che indossino i loro gioielli. I Sidhe che vivono tra i mortali tendono ad avere grandi quantitá di denaro.
+
+###Medusa
+Quando un Sidhe si unisce ad una strega mortale il risultato é sempre una medusa: una creatura mostruosa ma molto intelligente che puó esistere nel mondo mortale ed alla Corte del Crepuscolo.
+**Descrizione**
+Nel suo stato naturale una medusa appare come una femmina della razza del genitore mortale ma con la pelle scagliosa e reistente come la roccia. Il tratto distintivo della medusa é il groviglio di serpenti che vivono sulla sua testa al posto della capigliatura ed il volto mostruoso con gli occhi gialli dalla pupilla verticale che tramutano chiunque li veda in pietra. Le meduse che vivono alla Corte del Crepuscolo rimangono sempre nella loro forma mostruosa e vengono usate dai Sidhe come carnefici , guardie del corpo o gladiatori. Le meduse che vivono tra i mortali rimangono mostruose se vivono in solitudine ma se vivono insieme a membri di altre razze possono decidere di imitare l'aspetto degli abitanti del posto e nascondere la propria natura mostruosa ( che possono sempre rivelare per combattere od intimidire qualcuno).
+**Habitat**
+Alla Corte del Crepuscolo le meduse sono trattate come servitori pregiati ,inferiori ai Sidhe , ma trattati con un certo riguardo. Nel mondo mortale alcune meduse
+
 Megera
 Idra Oscura
 
