@@ -535,6 +535,220 @@ Quando eslpode una granata o un mago lancia un dardo infuocato  ci sono consegue
 
 
 
+1.	PICCOLI CAMBIAMENTI
+
+Razze
+---------------------------------------------
+Automa
+
+Archetipi
+1) Militare. Sei stato costruito per la guerra e ottieni +1 alla Riduzione del Danno. Devi superare una semplice prova di Volontà ogni volta che vuoi risolvere un incontro ostile in modo non letale.
+
+“prova Semplice”
+
+---------------------------------------
+Gnomo
+
+3) Incantatore. Hai una comprensione innata di come incantare gli oggetti. Usando attrezzi da alchimista, lavorando su un oggetto per 30 minuti e superando una prova Normale di Alchimia, puoi incantarlo per 2 ore (10 proiettili o frecce contano come un oggetto). Quando un oggetto viene incantato, tira 2d6 e, se il risultato è pari a 12, l'incantamento diviene permanente. Il numero di oggetti che possono essere incantati è pari al tuo livello (gli incantamenti permanenti non contano) e non sarà possibile incantarne altri finché non svanisce l’effetto su uno di essi.
+
+Incantato dovrebbe andare in maiuscolo perché ha una definizione specifica nel capitolo sull’equipaggiamento.
+
+
+Culture
+---------------------------------
+
+Introduzione
+Kelan Lasangre, Direttore della S.A.T.O., al giuramento dei Prefetti della classe del 497.
+
+
+Nell’atlante è STO
+
+------------------------------------------------
+Kurtaris
+
+5) Bardo
+I bardi sono tra i pochi Kurtaris benvenuti in tutti gli insediamenti, dove possono utilizzare le proprie doti di guaritori e di sapienti per aiutare gli abitanti. I bardi, inoltre, conservano e tramandano le leggende locali e sono la ragione per cui negli insediamenti più remoti le usanze del passato ancora sopravvivono. Gli antichi bardi spronavano i guerrieri alla gloria, tramandando le loro gesta ai posteri, ma secoli di controllo Zharkaniano hanno cancellato quasi del tutto queste figure. Abilità: +1 Natura, +1 Pronto Soccorso. Denaro Iniziale: 1d6 x 10 Talassi. Peculiarità: Quando usi Natura per cercare piante medicinali, aggiungi 1d6 alla prova.
+
+Non abbiamo molto sulle piante medicinali, aggiorniamo le regole o cambiamo il Bardo?
+
+-----------------------------------------------
+Zharkaniano
+
+Dushgar
+Se carichi un nemico correndo per almeno 15 metri, raddoppiare il danno del primo attacco. La distanza diventa di 50 metri se sei in sella.
+
+
+
+Origini
+---------------------------------------
+Contadino
+Peculiarità: Pollice Verde. Puoi riconoscere rapidamente le piante e le loro proprietà: quando fai una prova su Natura per identificare qualsiasi pianta, aggiungi 1d6.
+
+
+Stesso problema del Bardo .
+
+------------------------------------
+
+Intrattenitore
+Peculiarità: Mille Volti. Con il giusto travestimento, puoi impersonare diversi tipi di persone, da un agente di polizia a un mago. Conosci abbastanza il gergo tecnico per superare un’ispezione superficiale e muoverti in aree riservate senza impedimenti. Tuttavia, non sai nulla della tua identità assunta e potresti essere facilmente smascherato se incontri un vero membro di quella professione.
+
+
+Spiegare che chiunque puó travestirsi ma , a differenza di tutti gli altri, l’Intrattenitore non ha bisogno di tiri di Persuasione salvo in casi in cui impersoni una persona specifica od il suo interlocutore abbia un motivo per essere sospettoso
+
+
+2.	CLASSI & ABILITA’
+
+
+Facciamo in modi che ogni classe cominci con  2d6 nell’abilitá piú importante ed un totale di 10 d6:
+
+GUERRIERO
+
+2d6 ad un'Abilità di combattimento a scelta.
+
+1d6 ad un'Abilità di combattimento a scelta.
+
+1d6 ad un'Abilità di combattimento a scelta.
+
+1d6 ad Atletica.
+
+1d6 a Pronto Soccorso.
+
+1d6 a Guidare o Addestrare Animali.
+
+1d6 a Forza di Volontà.
+
+1d6 ad Armaiolo
+
+1d6 ad un'Abilità a scelta tra: Riparare, Intimidire, Medicina, Ingegneria, Orientamento, Oratoria.
+
+
+
+LADRO
+2d6 a Furtività
+
+1d6 ad un'Abilità di combattimento a scelta
+
+1d6 ad Acrobatica
+
+1d6 ad Atletica
+
+1d6 ad Ingannare
+
+1d6 ad Investigare
+
+1d6 a Destrezza
+
+1d6 a Seguire Tracce
+
+1d6 a Forza di Volontà
+
+STREGA
+
+2d6 a Stregoneria
+
+1d6 ad Alchimia
+
+
+1d6 a Pronto Soccorso
+
+1d6 a Medicina
+
+1d6 a Natura
+
+1d6 a Persuadere
+
+1d6 ad Intuizione
+
+1d6 ad Artigianato
+
+1d6 a Forza di Volontà
+
+MAGO
+
+2d6 a Magia Eterica
+
+1d6 ad Alchimia
+
+1d6 ad Investigare
+
+1d6 a Scienza Arcana
+
+1d6 a Medicina
+
+1d6 a Natura
+
+1d6 ad Artigianato
+
+1d6 a Forza di Volontà
+
+1d6 ad un'abilità a scelta
+
+
+
+
+
+
+
+
+
+INGEGNERE
+
+2d6 ad Ingegneria
+
+1d6 ad un'Abilità di combattimento a scelta
+
+1d6 ad Alchimia
+
+1d6 a Scienza Arcana
+
+1d6 ad Armaiolo
+
+1d6 a Riparare
+
+1d6 ad Artigianato
+
+1d6 a Veicoli a Motore
+
+1d6 a Forza di Volontà
+
+3.	LINGUE
+
+Vogliamo dare un nome specifico alle altre lingue comuni?
+
+Gnomesco  -  Kabotaal
+
+Pseudo olandese 
+
+Goblin  -  Canardili
+
+Un’abbreviazione di Lingua dei Mostri in turco
+
+Nivelto  - Parvato
+
+Il nuovo nome degli hobbit della palude
+
+Per le lingue morte come il draconico ed il gigante possiamo lasciare cosi perché non si sa come queste creature chiamino la propria lingua. I giganti intelligenti sono pressoché scomparsi ed i draghi sono diventate creature solitarie e probabilmente non ricordano le origini della loro lingua ammesso che ancora la usino.
+
+
+
+
+
+
+
+4.	PARTE MANCANTE NEL CAPITOLO SULL’INTERLUDIO
+
+
+
+Nel capitolo sull’Interludio c’é il titolo per il paragrafo sulla creazione di oggetti magici ma manca il testo ( questo testo non é aggiornato ed alcune parole possono essere cambiate nel frattempo):
+
+ Esistono tre tipi di oggetti magici quelli creati dalle Streghe, quelli creati dai Maghi e quelli creati dagli Ingegneri Eterici. Un Ingegnere Eterico ed un Mago possono collaborare e creare un Congegno che riproduca un Incantesimo. Per tutti e tre i processi, il primo passo è ottenere un oggetto Eccezionale, sia creandolo sia acquistandolo. L’aspetto dell’oggetto é deciso dall’incantatore e non si riflette sul suo funzionamento ( streghe e necromanti tendono verso il macabro mentre alcuni Ingegneri preferiscono uno stile moderno per i loro congegni).
+
+
+
+
+
+
+
 
 
 
